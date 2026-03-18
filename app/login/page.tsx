@@ -9,6 +9,3 @@ export default function LoginPage() {
     </div>
   )
 }
-
-
-{  /* project Number: 1065280816996  Project ID: allan-trucking for Google.cloud/ api*/}
